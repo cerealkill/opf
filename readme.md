@@ -3,7 +3,7 @@
 
 Sub-second algorithm for pairing and unpairing non-negative integers. Tests execute under one second with integers up to 7MB large in my laptop. Numbers larger than that take more, even minutes.
 
-Please contribute with more pairing and benhcmarks, maybe we find an underlying bottleneck we could fix! :)
+Please contribute with more pairing and benchmarks, maybe we find an underlying bottleneck we could fix! :)
 
 ### Usage
 Example with numbers much larger than C `ULONG_MAX` for 64bit that is `18446744073709551615`.
