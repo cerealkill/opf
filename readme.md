@@ -1,7 +1,7 @@
 ### OPF - Ordered Pairing Functions 
 ##### _for Python 3.7+ with support for arbitrarily large integers_ 
 
-Sub-second algorithm for pairing and unpairing non-negative integers up to 7MB long in my laptop.
+Sub-second algorithm for pairing and unpairing non-negative integers. Tests execute under one second with integers up to 7MB large in my laptop. Numbers larger than that take more, even minutes.
 
 Please contribute with more pairing and benhcmarks, maybe we find an underlying bottleneck we could fix! :)
 
